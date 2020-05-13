@@ -1,0 +1,48 @@
+
+body{
+	font-family: helvetica;
+	color: #FFFFFF;
+	background-color: #444444;
+}
+
+ li  {
+ 	    padding: 10px;
+ 	    margin-bottom: 20px;
+	    font-family: helvetica;
+	    border-style: groove;
+	    border-width: 10px;
+	    background-color: white;
+}
+
+a:visited { 
+color: #666699;
+ }
+
+a:link { 
+color: #1f1f2e; 
+}
+
+img {
+	position: absolute;
+	left: 50px;
+	border-style: solid;
+}
+
+.grid-container {
+	display: grid;
+	padding: 10px;
+}
+
+h3 {
+	border: 1px solid;
+	text-align: center;
+	padding: 20px;
+	background-color: #666699;
+	
+}
+
+p{
+	border: 1px solid;
+	text-align: center;
+	padding: 10px;
+}
